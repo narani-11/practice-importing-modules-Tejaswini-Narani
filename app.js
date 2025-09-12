@@ -29,3 +29,9 @@ if (command === 'add') {
   listTasks(tasks);
 }
 
+//output :
+Your Tasks:
+1. taskmanager practice task
+2. finished filehandler practice Task
+3. Buy milk
+4. Do homework
